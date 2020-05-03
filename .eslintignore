@@ -1,0 +1,7 @@
+dist
+coverage
+docs
+test
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
